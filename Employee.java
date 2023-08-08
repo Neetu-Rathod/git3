@@ -1,1 +1,3 @@
-"hello"
+Class A1{
+        "hello";
+}

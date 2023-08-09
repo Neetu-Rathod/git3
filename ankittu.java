@@ -1,14 +1,8 @@
 class A11{ 
     name
     kittu;
-    pgr;
 
-
-
-
-    nituyu
-    dfsfff.
-
-
-    ffs.
+    public bug400(){
+        //logic for bug 400
+    }
 }
